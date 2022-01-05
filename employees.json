@@ -1,4 +1,4 @@
-{ "exmployees" : [
+{ "employees" : [
   { "Name": "Chris", "Salary" : 46789, "Department": "Support"},
   { "Name": "John", "Salary" : 156777, "Department": "Backend"},
   { "Name": "David", "Salary" : 121223, "Department": "Front End"},
