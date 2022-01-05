@@ -1,8 +1,8 @@
 { "exmployees" : [
-  { "Name": "Chris", "Salary" :46789, "Location": "Support"},
+  { "Name": "Chris", "Salary" : 46789, "Location": "Support"},
   { "Name": "John", "Salary" : 156777, "Location": "Backend"},
   { "Name": "David", "Salary" : 121223, "Location": "Front End"},
   { "Name": "Charlie", "Salary" : 189767, "Location": "DevOps"},
   { "Name": "Jose", "Salary" : 124333, "Location": "Engineering"},
-  { "Name": "Julio", "Price" : 167555, "Department": "Tech"}
+  { "Name": "Julio", "Salary" : 167555, "Department": "Tech"}
 ]}
