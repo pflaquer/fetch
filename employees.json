@@ -1,0 +1,8 @@
+{ "exmployees" : [
+  { "Name": "Chris", "Salarye" : 100k, "Location": "Support"},
+  { "Name": "John", "Salary" : 100k, "Location": "Backend"},
+  { "Name": "David", "Salary" : 100k, "Location": "Front End"},
+  { "Name": "Charlie", "Salary" : 100k, "Location": "DevOps"},
+  { "Name": "Jose", "Salary" : 100k, "Location": "Engineering"},
+  { "Name": "Julio", "Price" : 100k, "Department": "Tech"}
+]}
