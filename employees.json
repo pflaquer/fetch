@@ -1,8 +1,8 @@
 { "exmployees" : [
-  { "Name": "Chris", "Salary" : 46789, "Location": "Support"},
-  { "Name": "John", "Salary" : 156777, "Location": "Backend"},
-  { "Name": "David", "Salary" : 121223, "Location": "Front End"},
-  { "Name": "Charlie", "Salary" : 189767, "Location": "DevOps"},
-  { "Name": "Jose", "Salary" : 124333, "Location": "Engineering"},
+  { "Name": "Chris", "Salary" : 46789, "Department": "Support"},
+  { "Name": "John", "Salary" : 156777, "Department": "Backend"},
+  { "Name": "David", "Salary" : 121223, "Department": "Front End"},
+  { "Name": "Charlie", "Salary" : 189767, "Department": "DevOps"},
+  { "Name": "Jose", "Salary" : 124333, "Department": "Engineering"},
   { "Name": "Julio", "Salary" : 167555, "Department": "Tech"}
 ]}
