@@ -1,0 +1,8 @@
+{ "data" : [
+  { "Name": "Julio Rodriguez"},
+  { "Heart Rate": 120},
+  { "Age": 19},
+  { "Weight": 178,},
+  { "BPM": "TBD", "Salary" : 189767, "Department": "DevOps"},
+  { "Vaccination Status": "Yes"},
+]}
