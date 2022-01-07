@@ -3,6 +3,7 @@
   "lastName": "Smith",
   "isAlive": true,
   "age": 27,
+  "btc": 40000,
   "address": {
     "streetAddress": "21 2nd Street",
     "city": "New York",
