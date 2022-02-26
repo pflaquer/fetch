@@ -1,0 +1,4 @@
+{ "stocks" : [
+  { "ticker": "AMD", "Price" : 98, },
+  { "ticker": "Intel", "Price" : 55,}
+]}
